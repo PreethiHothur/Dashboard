@@ -1,0 +1,96 @@
+/* .hoverd {
+  opacity: 0;
+}
+.hoverdiv:hover .hoverd {
+  opacity: 1;
+}
+.iconn:hover {
+  background-color: #008000;
+  border-radius: 20px;
+}
+.iconn {
+  width: 10px;
+}
+.trash {
+  width: 30px;
+  height: 30px;
+}
+.trash:hover {
+  background-color: red;
+} */
+/* /////////////////////////// */
+/* dd {
+  margin-left: 10%;
+}
+.hover-icons,
+.hover-list,
+.check-icon,
+.hover-icons-2,
+.hover-icons-3,
+.hover-list-2,
+.check-icon-2,
+.hover-icons-4 {
+  opacity: 0;
+}
+.task-row:hover .hover-icons {
+  opacity: 1;
+}
+.task-row-2:hover .hover-list {
+  opacity: 1;
+}
+.task-row-3:hover .check-icon {
+  opacity: 1;
+}
+.task-row-4:hover .hover-icons-2 {
+  opacity: 1;
+}
+.task-row-5:hover .hover-icons-3 {
+  opacity: 1;
+}
+.task-row-6:hover .hover-list-2 {
+  opacity: 1;
+}
+.task-row-7:hover .check-icon-2 {
+  opacity: 1;
+}
+.task-row-8:hover .hover-icons-4 {
+  opacity: 1;
+}
+.check-icon-bg:hover {
+  cursor: pointer;
+  background-color: rgb(79, 233, 79);
+  box-shadow: 50px 50px;
+  color: white;
+}
+.check-icon-bg {
+  color: rgb(105, 229, 105);
+}
+.trash-icon {
+  color: red;
+}
+.trash-icon:hover {
+  cursor: pointer;
+  color: white;
+  background-color: red;
+  box-shadow: 1000px;
+}
+.tasks-card {
+  border: 1px solid rgb(89, 229, 89);
+  box-shadow: 0px 2px 4px 0px rgb(89, 229, 89);
+}
+.tasks-card-2 {
+  border: 1px solid rgb(2, 14, 52);
+  box-shadow: 0px 2px 4px 0px rgb(2, 14, 52);
+}
+.tasks-card-3 {
+  border: 1px solid orangered;
+  box-shadow: 0px 2px 4px 0px orangered;
+}
+.tasks-card-4 {
+  border: 1px solid rgb(116, 6, 6);
+  box-shadow: 0px 2px 4px 0px rgb(117, 9, 9);
+}
+.tasks-card-5 {
+  border: 1px solid rgb(23, 110, 144);
+  box-shadow: 0px 2px 4px 0px rgb(23, 110, 144);
+} */
